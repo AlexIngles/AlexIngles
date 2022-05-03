@@ -1,4 +1,4 @@
-### I'm Alex 👋
+### I'm Alex 🤙
 
 - 🔭 I’m currently working on analysis projects...
 - 🌱 I’m performing applications in Power BI ...
@@ -9,8 +9,7 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexIngles&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexIngles&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIngles&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
